@@ -2,40 +2,27 @@ project:
   type: website
   output-dir: docs
 
+# English profile (_quarto-en.yml) is used when rendering without a profile,
+# e.g. a plain `quarto preview`. babelquarto passes the profile explicitly.
+profile:
+  default: en
+
 website:
   title: "Hydro Biogeo Lab"
   description: ""
+  site-url: https://audreycampeau.github.io/hydro-biogeo-lab
   favicon: images/HydrobioGeo_Logo_flavicon.png
   
   navbar:
     logo: images/HydrobioGeo_Logo_flavicon.png
     background: "#1a4d6e"  # Deep ocean
     foreground: "#f5f5f0"  # Off-white
-    left:
-      - text: "Home"
-        href: index.qmd
-      - text: "Research"
-        href: research/research.html
-      - text: "Team"
-        menu:
-          - text: "PI | Audrey "
-            href: team/PI/PI.html
-          - text: "Members"
-            href: team/members/members.html
-      - text: "Publications"
-        href: publications/publications.html
-      - text: "Educational Resources"
-        href: ressources/ressources.html
-      
-    right:
-      - icon: google
-        href: https://scholar.google.com/citations?user=3rr3LlwAAAAJ&hl=en
-      - icon: mortarboard-fill
-        href: https://recherche.umontreal.ca/en/chercheur/is/in36574/
-      - icon: github
-        href: https://github.com/audreycampeau
-      - icon: envelope
-        href: mailto:audrey.campeau@umontreal.ca
+    # The menu items (left) live in _quarto-en.yml and _quarto-fr.yml:
+    # Quarto concatenates lists from profiles, so they can't be shared here.
+    # The right side holds only babelquarto's English/Français switcher,
+    # moved there by babelquarto-switcher.html (see format > html > include-after-body).
+
+
 
   page-footer:
     border: true
@@ -44,15 +31,6 @@ website:
       © 2026 Hydro Biogeo Lab at Université de Montréal. All rights reserved.
     center: |
       This website was built with [Quarto](https://quarto.org)
-    right:
-      - icon: google
-        href: https://scholar.google.com/citations?user=3rr3LlwAAAAJ&hl=en
-      - icon: mortarboard-fill
-        href: https://recherche.umontreal.ca/en/chercheur/is/in36574/
-      - icon: github
-        href: https://github.com/audreycampeau
-      - icon: envelope
-        href: mailto:audrey.campeau@umontreal.ca
         
 
 format:
@@ -78,6 +56,7 @@ format:
     link-external-newwindow: true
     anchor-sections: true
     smooth-scroll: true
+    include-after-body: babelquarto-switcher.html
     
 
     citations-hover: true
@@ -87,7 +66,7 @@ format:
     highlight-style: github
     
     # Additional metadata
-    lang: en
+    # (lang is now set at the top level, below, so the French profile can override it)
     date-format: "MMMM D, YYYY"
     
 
@@ -101,3 +80,17 @@ execute:
 
 # Editor settings
 editor: visual
+
+# ---- Bilingual setup (babelquarto) ----
+babelquarto:
+  languagelinks: navbar
+  languagecodes:
+  - name: fr
+    text: "Français"
+  - name: en
+    text: "English"
+  mainlanguage: 'en'
+  languages: ['fr']
+title-fr: "Hydro Biogeo Lab"
+description-fr: ""
+lang: en

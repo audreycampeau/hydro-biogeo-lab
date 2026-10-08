@@ -1,0 +1,43 @@
+---
+title: ""
+subtitle: ""
+page-layout: article
+#title-block-banner: true
+#title-block-banner-color: "#2c5f8d"
+---
+
+![](images/HydrobioGeo_Logo.png){fig-align="center" width="362"}
+
+## Bienvenue
+
+Le Hydro Biogeo Lab est un groupe de recherche interdisciplinaire qui étudie la composante hydrologique des cycles biogéochimiques planétaires. Nous cherchons à mieux comprendre comment les processus à l'interface terre-eau régissent les flux biogéochimiques, leur fonctionnement interne et la façon dont ils pourraient réagir aux changements environnementaux.
+
+Nos recherches reposent principalement sur des observations de terrain et sont menées à plusieurs échelles. Nous combinons plusieurs outils, notamment des mesures automatisées et en continu à l'aide de capteurs *in situ*, des traceurs isotopiques et l'analyse de données géospatiales.
+
+Nous sommes situés au [Département de géographie de l'Université de Montréal](https://geographie.umontreal.ca/accueil/), au Campus MIL.
+
+![](images/Home_header.png){fig-align="center"}
+
+![](images/Universite_de_Montreal_logo.svg.webp){fig-align="right" width="236"}
+
+## Comment utiliser ce site
+
+Ce site sert de **plateforme de diffusion** pour la recherche que nous menons collectivement au laboratoire.
+
+Vous y trouverez :
+
+- Des tutoriels et du matériel de visualisation de données dans la page des ressources éducatives.
+
+- Les portfolios individuels des membres de l'équipe, avec plus d'information sur leurs projets de recherche.
+
+- Une liste des publications, des sites d'étude, des outils et de l'équipement qui constituent le cœur de notre travail.
+
+Nous croyons fermement à l'importance de rendre notre science et nos connaissances accessibles.
+
+Tout le contenu présenté ici est sous licence Creative Commons CC-XYZ. Merci de l'utiliser et de le partager en conséquence.
+
+## Partenaires
+
+Nos recherches sont soutenues par
+
+![](images/partners.png){fig-align="center"}

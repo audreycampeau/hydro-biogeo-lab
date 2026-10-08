@@ -1,0 +1,26 @@
+---
+title: "Ressources"
+listing:
+  - id: tutorials
+    contents: ressources.yml # fichier source
+    type: grid
+    categories: true
+    sort: "title"
+    fields: [image, title, authors, description, categories]
+  - id: dataviz
+    contents: dataviz.yml   # fichier source
+    type: grid
+    categories: true
+    sort: "date"
+    fields: [image, title, authors, description, categories]
+---
+
+# Tutoriels
+
+::: {#tutorials}
+:::
+
+# Visualisation de données
+
+::: {#dataviz}
+:::

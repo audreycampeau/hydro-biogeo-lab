@@ -1,0 +1,94 @@
+---
+page-layout: article
+title: "Audrey Campeau"
+description: "Chercheuse principale"
+---
+
+:::: grid
+::: g-col-8
+<a href="mailto:audrey.campeau@umontreal.ca" aria-label="Courriel"><i class="bi bi-envelope"></i></a> <a href="https://github.com/audreycampeau" aria-label="GitHub"><i class="bi bi-github"></i></a> <a href="https://scholar.google.com/citations?user=3rr3LlwAAAAJ&hl=en" aria-label="Google Scholar"><i class="bi bi-google"></i></a> <a href="https://recherche.umontreal.ca/en/chercheur/is/in36574/" aria-label="UdeM"><i class="bi bi-mortarboard-fill"></i></a>
+:::
+::::
+
+## Biographie
+
+::::: grid
+::: g-col-8
+Je suis biogéochimiste des bassins versants au Département de géographie de l'Université de Montréal. Mes recherches portent sur la façon dont le carbone et d'autres éléments sont transportés et transformés entre la terre et l'eau, d'un simple ruisseau jusqu'à l'échelle planétaire. Mon désir de faire de la recherche découlent d'une profonde curiosité envers le monde naturel et la manière dont il évoluera sous les pressions environnementales.
+
+Mes recherches sont aussi influencées par un amour de longue date pour les arts visuels. Au fil de ma carrière universitaire, j'ai développé une expertise en visualisation de données et en programmation, que j'utilise autant pour analyser des données que pour communiquer la science. Pour moi, la science est une démarche fondamentalement créative, et chaque projet de recherche porte l'empreinte de la personne qui le mène. Comme directrice de recherche, j'adore voir ces trajectoires uniques se déployer et accompagner les personnes étudiantes tout au long du chemin.
+
+En dehors du travail, je passe la majeure partie de mon temps avec mes trois (et très actifs!) jeunes enfants. J'aime aussi tous les arts textiles, surtout le tricot. Si vous me voyez porter quelque chose en laine, je l'ai probablement fait moi-même!
+:::
+
+::: g-col-4
+### 
+
+![](/images/Profile%20Photo.png){fig-align="center" width="300"}
+:::
+:::::
+
+#### Parcours universitaire
+
+![](/images/audrey_bio.png)
+
+## Affiliation
+
+:::: grid
+::: g-col-8
+Je suis membre du [Groupe de recherche interuniversitaire en limnologie (GRIL).](https://oraprdnt.uqtr.uquebec.ca/portail/gscw031?owa_no_site=543)
+:::
+::::
+
+## Distinctions
+
+- [*Prix L’Oréal-UNESCO Pour les femmes et la science, Suède*](https://sverigesungaakademi.se/barn-och-samhalle/klimat-och-ai-forskning-i-fokus-for-2023-ars-mottagare-av-loreal-unesco-for-women-in-science-priset/) (2023)
+
+- *Fonds du 50^e^ anniversaire du roi Carl XVI Gustaf* pour la science, la technologie et l'environnement (2020)
+
+- *Prix Alfort – Meilleure thèse de doctorat en géographie physique*, décerné par la Société suédoise d'anthropologie et de géographie (SSAG) (2020)
+
+## Enseignement
+
+J'enseigne plusieurs cours au département, notamment :
+
+- Terrain en géographie physique et humaine (Terrain 1 \| [GEO1315](https://admission.umontreal.ca/cours-et-horaires/cours/geo-1315/))
+
+- Bassins versants ([GEO3162](https://admission.umontreal.ca/cours-et-horaires/cours/geo-3162/))
+
+- Dynamiques des écosystèmes ([GEO6100](https://admission.umontreal.ca/cours-et-horaires/cours/geo-6100/))
+
+- Visualisation de données (à venir en 2027)
+
+:::: grid
+::: g-col-8
+:::
+::::
+
+Vous pouvez visualiser les données récoltées pour le volet géographie physique des cours de terrain 👇 au fil des différentes éditions. Ces rapports ont été réalisés en collaboration avec des personnes étudiantes de premier cycle et des cycles supérieurs dans le cadre de projets individuels, à l'aide de la programmation R et de Quarto.
+
+:::::: grid
+::: g-col-4
+#### Rapport de visualisation 2026
+
+![](/images/Teaching/Logo_2026.png){width="300"}
+
+\[Bientôt disponible\]
+:::
+
+::: g-col-4
+#### Rapport de visualisation 2025
+
+![](/images/Teaching/Logo_2025.png){width="300"}
+
+\[[Consultez-le ici →](https://audreycampeau.github.io/GEO1315_2025_DataViz/)\]
+:::
+
+::: g-col-4
+#### Rapport de visualisation 2024
+
+![](/images/Teaching/Logo_2024.png){width="300"}
+
+\[[Consultez-le ici →](https://audreycampeau.github.io/geo-terrain/)\]
+:::
+::::::

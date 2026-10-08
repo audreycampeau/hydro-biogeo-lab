@@ -1,0 +1,132 @@
+---
+title: "Membres actuels"
+date-modified: today
+---
+
+# 
+
+## Doctorat
+
+::::::: grid
+::: g-col-8
+#### Mathilde Bélair <a href="mailto:mathilde.belair@umontreal.ca" aria-label="Courriel"><i class="bi bi-envelope"></i></a>
+
+En codirection avec [Jean-François Lapierre](https://www.lapierrelab.com)
+
+Quel est l'impact des feux de forêt sur le cycle du carbone aquatique? Dans ma thèse, j'utilise une combinaison d'approches pour répondre à cette vaste question à différentes échelles spatiales et temporelles.
+
+Mon site d'étude au sein du laboratoire se trouve au nord du Saguenay. J'y effectue des suivi du niveau d'eau le long de deux gradients hydrologiques, du ruisseau d'amont au lac d'amont, jusqu'aux lacs qui confluent en aval, dans des bassins versants touchés ou non par des feux de forêt. Dans les bassins brûlés, je suis aussi les concentrations de gaz dissous (CO₂, CH₄ et O₂) et j'applique des traceurs isotopiques du carbone et de l'eau le long de ces deux transects.
+
+\[Pour en savoir plus → <a href="https://github.com/USERNAME" aria-label="GitHub"><i class="bi bi-github"></i></a> <a href="https://www.researchgate.net/profile/Mathilde-Belair" aria-label="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a> \]
+:::
+
+::: g-col-4
+![](/images/members/Mathilde.png){fig-align="right" width="200"}
+:::
+
+::: g-col-8
+#### William Brais <a href="mailto:william.brais@umontreal.ca" aria-label="Courriel"><i class="bi bi-envelope"></i></a>
+
+En codirection avec [Sylvain Jutras](https://www.ffgg.ulaval.ca/faculte/departement-des-sciences-du-bois-et-de-la-foret/personnel-enseignant/sylvain-jutras)
+
+Comment les émissions de CO₂ et de CH₄ des ruisseaux de tête réagissent-elles à la dynamique hydroclimatique?
+
+Mes sites d'étude sont répartis le long d'un gradient climatique et comprennent trois bassins versants forestiers d'amont instrumentés au Québec. Je combine plusieurs capteurs pour suivre en continu les concentrations de gaz dissous, l'expansion et la contraction du réseau hydrographique, ainsi que la dynamique des échanges gazeux issue de la turbulence de l'écoulement.
+
+\[Pour en savoir plus → <a href="https://github.com/USERNAME" aria-label="GitHub"><i class="bi bi-github"></i></a>
+:::
+
+::: g-col-4
+![](/images/members/William.png){fig-align="right" width="200"}
+:::
+:::::::
+
+## Maîtrise
+
+::::::::::: grid
+::: g-col-8
+#### Léonie Thibault-Rousseau <a href="mailto:leonie.thibault.rousseau@umontreal.ca" aria-label="Courriel"><i class="bi bi-envelope"></i></a>
+
+Comment les épisodes de crue façonnent-ils l'exportation latérale du carbone dans les ruisseaux forestiers d'amont?
+
+Je suis responsable du [bassin versant d'amont de la SBL](https://www.google.ca/maps/d/edit?mid=1CkgXsz_RnwBhu3fuFGAUrb8hB-nOmpE&ll=45.98854440917971%2C-74.01099000000002&z=17), où j'ai instrumenté un ruisseau de tête et un versant à écoulement préférentiel d'eau souterraine. J'y mesure en continu les concentrations de CO₂, de CH₄ et d'O₂, ainsi que la MODC (C-DOM), la conductivité, la hauteur de la nappe phréatique et la température.
+
+\[Pour en savoir plus →\]
+:::
+
+::: g-col-4
+### 
+
+![](/images/members/Leonie.png){fig-align="right" width="200"}
+:::
+
+::: g-col-8
+#### Joël Gaxotte <a href="mailto:joel.gaxotte@umontreal.ca" aria-label="Courriel"><i class="bi bi-envelope"></i></a>
+
+En codirection avec [Alexis Berg](https://sites.google.com/site/alexisbergspage/)
+
+Que peuvent nous apprendre les modèles du système terrestre sur l'avenir de l'exportation du carbone terrestre vers les océans à l'échelle mondiale?
+
+J'utilise le modèle [CNRM-ESM2-1](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001791) pour tester l'effet de différents scénarios de changements climatiques sur l'exportation de carbone organique des rivières vers les océans à travers le monde.
+
+J'ai produit le tutoriel « [Comment délimiter un bassin versant dans R](https://joelgaxotte.github.io/Delineation_R/Delineation_false.html) », que vous trouverez dans la page des ressources.
+:::
+
+::: g-col-4
+### 
+
+![](/images/members/Joel.png){fig-align="right" width="200"}
+:::
+
+::: g-col-8
+#### Léon Leblanc <a href="mailto:leon.leblanc@umontreal.ca" aria-label="Courriel"><i class="bi bi-envelope"></i></a>
+
+En codirection avec [Jean-François Lapierre](https://www.lapierrelab.com)
+
+Quelle est l'empreinte en gaz à effet de serre des fossés de drainage agricole dans le sud du Québec, et comment pouvons-nous mieux éclairer les bilans régionaux?
+
+\[Pour en savoir plus →\]
+:::
+
+::: g-col-4
+### 
+
+![](/images/members/Leon.png){fig-align="right" width="200"}
+:::
+
+::: g-col-8
+#### Nina Miller <a href="mailto:nina.emond.miller@umontreal.ca" aria-label="Courriel"><i class="bi bi-envelope"></i></a>
+
+En codirection avec [Julia Mlynarek](https://juliamlynarek.wordpress.com)
+
+Nous avons récemment découvert une population de gomphes des fosses, une espèce rare de libellule, dans la rivière Nicolet Sud-Ouest. Mon projet vise à mieux comprendre les caractéristiques de son habitat afin de mieux orienter les stratégies de conservation.
+
+\[Pour en savoir plus →\]
+:::
+
+::: g-col-4
+### 
+
+![](/images/members/Nina.png){fig-align="right" width="200"}
+:::
+:::::::::::
+
+## Baccalauréat
+
+::::: grid
+::: g-col-4
+### 
+:::
+
+::: g-col-6
+### 
+:::
+:::::
+
+## 
+
+# Anciens membres
+
+### Stagiaires de premier cycle
+
+- Léon Leblanc (2025-2026)

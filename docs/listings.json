@@ -1,10 +1,20 @@
 [
   {
+    "listing": "/ressources/ressources.html",
+    "items": []
+  },
+  {
     "listing": "/research/research.html",
     "items": []
   },
   {
-    "listing": "/ressources/ressources.html",
+    "listing": "/ressources/ressources.fr.html",
     "items": []
+  },
+  {
+    "listing": "/research/research.fr.html",
+    "items": [
+      "/research/research.html"
+    ]
   }
 ]

@@ -1,0 +1,37 @@
+# French-language settings.
+# babelquarto loads this file automatically when rendering the French pages (*.fr.qmd),
+# and anything here is merged with _quarto.yml for those pages.
+# Note: Quarto *appends* lists from a profile instead of replacing them, so list
+# items shared by both languages (navbar right, footer icons) stay in _quarto.yml.
+
+lang: fr
+
+website:
+  title: "Hydro Biogeo Lab"
+
+  navbar:
+    left:
+      - text: "Accueil"
+        href: index.qmd
+      - text: "Recherche"
+        href: research/research.qmd
+      - text: "Équipe"
+        menu:
+          - text: "Chercheuse principale | Audrey"
+            href: team/PI/PI.qmd
+          - text: "Membres"
+            href: team/members/members.qmd
+      - text: "Publications"
+        href: publications/publications.qmd
+      - text: "Ressources éducatives"
+        href: ressources/ressources.qmd
+
+  page-footer:
+    left: |
+      © 2026 Hydro Biogeo Lab, Université de Montréal. Tous droits réservés.
+    center: |
+      Ce site a été conçu avec [Quarto](https://quarto.org)
+
+format:
+  html:
+    date-format: "D MMMM YYYY"

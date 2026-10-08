@@ -4,6 +4,12 @@ title: "Audrey Campeau"
 description: "Principal Investigator"
 ---
 
+:::: grid
+::: g-col-8
+<a href="mailto:audrey.campeau@umontreal.ca" aria-label="Email"><i class="bi bi-envelope"></i></a> <a href="https://github.com/audreycampeau" aria-label="GitHub"><i class="bi bi-github"></i></a> <a href="https://scholar.google.com/citations?user=3rr3LlwAAAAJ&hl=en" aria-label="Google Scholar"><i class="bi bi-google"></i></a> <a href="https://recherche.umontreal.ca/en/chercheur/is/in36574/" aria-label="UdeM"><i class="bi bi-mortarboard-fill"></i></a>
+:::
+::::
+
 ## Bio
 
 ::::: grid
