@@ -2,21 +2,21 @@
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
-    "title": "Watershed Lab",
+    "title": "Hydro Biogeo Lab",
     "section": "Welcome",
-    "text": "Welcome\nThe Watershed Lab is an interdisciplinary research group studying watershed processes, with focus on biogeochemistry and hydrology. We want to better understand watershed’s inner-workings and how they may respond to environmental changes.\nWhat is a watershed? It is the geospatial unit defined by the natural flow of water on land.\nOur research is based mostly on field observations. We combine multiple tools including automated and continuous in-situ sensor measurements, isotopic tracers, ground or drone-based imagery including thermal infrared and LIDAR.\nWe are based at the departement of geography of University of Montréal, located at Campus-MIL"
+    "text": "Welcome\nThe Hydro Biogeo Lab is an interdisciplinary research group studying the hydrological component of global biogeochemical cycles. We want to better understand how land-water processes drive biogeochemical fluxes, their inner-workings and how they may respond to environmental changes.\nOur research is based mostly on field observations and carried across multiple scales. We combine multiple tools including automated and continuous in-situ sensor measurements, isotopic tracers and geospatial data analysis.\nWe are based at the departement of geography of University of Montréal, located at Campus-MIL"
   },
   {
     "objectID": "index.html#how-to-use-this-website",
     "href": "index.html#how-to-use-this-website",
-    "title": "Watershed Lab",
+    "title": "Hydro Biogeo Lab",
     "section": "How to use this website",
     "text": "How to use this website\nThis websites serves as a diffusion platform for the research we do collectively in the lab.\nHere, you will find:\n\nTutorials and data viz material in the educational resources page.\nIndividual portfolios from team members with more information on their research projects.\nA list of publications, field sites, tools and equipement that form the core basis of our work.\n\nWe hold strong beliefs in the importance of making our science and knowledge accessible.\nAll material featured here is licensed under the CC-XYZ common. Please use and share accordingly."
   },
   {
     "objectID": "index.html#partners",
     "href": "index.html#partners",
-    "title": "Watershed Lab",
+    "title": "Hydro Biogeo Lab",
     "section": "Partners",
     "text": "Partners\nOur research is supported by"
   },
@@ -142,37 +142,37 @@
   {
     "objectID": "ressources/ressources.html",
     "href": "ressources/ressources.html",
-    "title": "Educational Resources",
+    "title": "Resources",
     "section": "",
     "text": "Tutorials\n\n\n\n\n\n\n\n\n\n\nComment delimiter un bassin versant dans R?\n\n\n\nR\n\nGIS\n\nHydrology\n\n\n\nCe tutoriel vous permet de delimiter un bassin versant à partir d’un modèle d’élévation numérique et de coordonnées GPS d’un point d’écoulement.\n\n\n\n\n\nauthors\n\n\nJoël Gaxotte & Audrey Campeau\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nDataviz\n\n\n\n\n\n\n\n\n\n\nVisualisation des données physiques (GEO1315, édition 2024)\n\n\n\nR\n\nEducation\n\nLimnology\n\n\n\nCe document comporte une courte analyse de données sur les données physiques récoltées par vous 🫵, futures géographes, durant le cours terrain 1 en géographie\n\n\n\n\n\nauthors\n\n\nSara-Ève Dionne & Audrey Campeau\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualisation des données physiques (GEO1315, édition 2025)\n\n\n\nR\n\nEducation\n\nLimnology\n\n\n\nCe document comporte une courte analyse de données sur les données physiques récoltées par vous 🫵, futures géographes, durant le cours terrain 1 en géographie\n\n\n\n\n\nauthors\n\n\nFrançois Kabambi & Audrey Campeau\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "team/members/members.html",
     "href": "team/members/members.html",
-    "title": "Team Members",
+    "title": "Current Members",
     "section": "",
-    "text": "Co-supervised with Jean-François Lapierre\nWhat is the impact of wildfires on aquatic carbon cycling? For my thesis, I use a combination of approaches to answer this vast question at different spatial and temporal scales.\nMy field site within the Watershed Lab is located in the north of Saguenay. There I monitor water level across two hydrological gradients, from headwater stream, headwater lake, to merging lakes downstream in catchments that were affected by wildfires and ones that weren’t. In the burned catchments, I also monitor dissolved gas concentrations CO₂, CH₄ and O₂ and I apply carbon and water isotope tracers along these two transects.\n[Find out more →]"
+    "text": "Co-supervised with Jean-François Lapierre\nWhat is the impact of wildfires on aquatic carbon cycling? For my thesis, I use a combination of approaches to answer this vast question at different spatial and temporal scales.\nMy field site within the Watershed Lab is located in the north of Saguenay. There I monitor water level across two hydrological gradients, from headwater stream, headwater lake, to merging lakes downstream in catchments that were affected by wildfires and ones that weren’t. In the burned catchments, I also monitor dissolved gas concentrations CO₂, CH₄ and O₂ and I apply carbon and water isotope tracers along these two transects.\n[Find out more →   ]\n\n\n\n\n\n\n\n\n\n\nCo-supervised with Sylvain Jutras\nHow headwater stream CO₂ CH₄ emissions respond to hydro-climatic dynamics?\nMy field site are distributed across a climate gradient including three monitored forested headwater catchments in Québec. I combine multiple sensors to continuously trace dissolved gas concentrations, stream network expansion and contraction, and turbulent gas exchange dynamics.\n[Find out more →"
   },
   {
     "objectID": "team/members/members.html#doctoral-researchers",
     "href": "team/members/members.html#doctoral-researchers",
-    "title": "Team Members",
+    "title": "Current Members",
     "section": "",
-    "text": "Co-supervised with Jean-François Lapierre\nWhat is the impact of wildfires on aquatic carbon cycling? For my thesis, I use a combination of approaches to answer this vast question at different spatial and temporal scales.\nMy field site within the Watershed Lab is located in the north of Saguenay. There I monitor water level across two hydrological gradients, from headwater stream, headwater lake, to merging lakes downstream in catchments that were affected by wildfires and ones that weren’t. In the burned catchments, I also monitor dissolved gas concentrations CO₂, CH₄ and O₂ and I apply carbon and water isotope tracers along these two transects.\n[Find out more →]"
+    "text": "Co-supervised with Jean-François Lapierre\nWhat is the impact of wildfires on aquatic carbon cycling? For my thesis, I use a combination of approaches to answer this vast question at different spatial and temporal scales.\nMy field site within the Watershed Lab is located in the north of Saguenay. There I monitor water level across two hydrological gradients, from headwater stream, headwater lake, to merging lakes downstream in catchments that were affected by wildfires and ones that weren’t. In the burned catchments, I also monitor dissolved gas concentrations CO₂, CH₄ and O₂ and I apply carbon and water isotope tracers along these two transects.\n[Find out more →   ]\n\n\n\n\n\n\n\n\n\n\nCo-supervised with Sylvain Jutras\nHow headwater stream CO₂ CH₄ emissions respond to hydro-climatic dynamics?\nMy field site are distributed across a climate gradient including three monitored forested headwater catchments in Québec. I combine multiple sensors to continuously trace dissolved gas concentrations, stream network expansion and contraction, and turbulent gas exchange dynamics.\n[Find out more →"
   },
   {
     "objectID": "team/members/members.html#master-researchers",
     "href": "team/members/members.html#master-researchers",
-    "title": "Team Members",
+    "title": "Current Members",
     "section": "Master researchers",
-    "text": "Master researchers\n\n\nLéonie Thibault-Rousseau\nHow do storm events shape lateral carbon export in forested headwater streams?\nI lead the SBL headwater catchment where I have instrumented a headwater stream and a preferential groundwater flow slope with sensors. I measure continuously CO₂, CH₄ and O₂ gas concentration, along side C-DOM, conductivity, water table height and temperature.\n[Find out more →]\n\n\n\n\n\n\n\n\n\n\nJoël Gaxotte\nCo-supervised with Alexis Berg\nWhat can Earth System Models tell us about the future of land carbon export to oceans globally?\nI use the CNRM-ESM2-1 model to test the effect of different climate change scenarios on organic carbon export from rivers to oceans worldwide\nI produced the tutorial “How to delineate a watershed on R”, which you can find in the resources page.\n\n\n\n\n\n\n\n\n\n\nVincent Villeneuve\nCo-supervised with Jean-François Lapierre\nHow much carbon is exported and emitted from agricultural streams across southern Québec and what are the landscape properties that shape these spatial patterns?\n[Find out more →]"
+    "text": "Master researchers\n\n\nLéonie Thibault-Rousseau \nHow do storm events shape lateral carbon export in forested headwater streams?\nI lead the SBL headwater catchment where I have instrumented a headwater stream and a preferential groundwater flow slope with sensors. I measure continuously CO₂, CH₄ and O₂ gas concentration, along side C-DOM, conductivity, water table height and temperature.\n[Find out more →]\n\n\n\n\n\n\n\n\n\n\nJoël Gaxotte \nCo-supervised with Alexis Berg\nWhat can Earth System Models tell us about the future of land carbon export to oceans globally?\nI use the CNRM-ESM2-1 model to test the effect of different climate change scenarios on organic carbon export from rivers to oceans worldwide\nI produced the tutorial “How to delineate a watershed on R”, which you can find in the resources page.\n\n\n\n\n\n\n\n\n\n\nLéon Leblanc \nCo-supervised with Jean-François Lapierre\nWhat is the greenhouse gases footprint of agriculture drainage ditches in southern Québec and how can we better inform regional budgets?\n[Find out more →]\n\n\n\n\n\n\n\n\n\n\nNina Miller \nCo-supervised with Julia Mlynarek\nWe recently identified a population of rapid cubtails, a rare specie of dragonfly, in the nicolet sub-ouest river. My projet seeks to better understand the characteristics of its habitat in order to better inform conservation strategies.\n[Find out more →]"
   },
   {
     "objectID": "team/members/members.html#bachelor-researchers",
     "href": "team/members/members.html#bachelor-researchers",
-    "title": "Team Members",
+    "title": "Current Members",
     "section": "Bachelor researchers",
-    "text": "Bachelor researchers\n\n\nLéon Leblanc\nHow much do headwater stream surfaces expand and contract over time and what are the potential implications for annual stream CO₂ emissions.\nI use trail cameras and pressure transducers to track the activation of intermittent streams. I coupled this with drone surveys using thermal infrared imagery. My field site is located at the SBL.\n[Find out more →]"
+    "text": "Bachelor researchers"
   },
   {
     "objectID": "team/PI/PI.html",
@@ -221,7 +221,7 @@
     "href": "research/research.html#equipment-infrastructure",
     "title": "Research",
     "section": "Equipment & Infrastructure",
-    "text": "Equipment & Infrastructure\n\nGeospatial toolkit\n\nGNSS surveying system : EMLID RS3\nGround based thermal imagery: FLIR T560 camera\nGround based LIDAR scanner: LiGrip O2 Lite\n\n\n\nHydrological observations\n\nAcoustic doppler velocimeter: FlowTracker 2 -ADV\nPressure Transducers: Hobo MX\nTrail Cameras:\nUnderwater microphones: Hydromoths\nICOS Water Isotope Analyzer\n\n\n\nCarbon sensing\n\nData loggers: Campbell Scientific\nOxygen: Mini-Do2T\nCO2: Vaisala, C-sense and mini-sensors, in air (K33 sense air)\nCH4: Pro-Oceanus, Solub-blue and mini sensors.\nLGR: Ultraportable CO2 and CH4 analyzer"
+    "text": "Equipment & Infrastructure\n\nGeospatial toolkit\n\nGNSS surveying system : EMLID RS3\nGround based thermal imagery: FLIR T560 camera\n\n\n\nHydrological observations\n\nAcoustic doppler velocimeter: FlowTracker 2 -ADV\nPressure Transducers: Hobo MX\nTrail Cameras:\nUnderwater microphones: Hydromoths\nICOS Water Isotope Analyzer:\n\n\n\nCarbon sensing\n\nData loggers: Campbell Scientific\nOxygen: Mini-Do2T\nCO2: Vaisala, C-sense and mini-sensors, in air (K33 sense air)\nCH4: Pro-Oceanus, Solub-blue and mini sensors.\nLGR: Ultraportable CO2 and CH4 analyzer"
   },
   {
     "objectID": "team/PI/PI.html#affiliation",
@@ -285,5 +285,19 @@
     "title": "Tutoriel | Comment delinéer un bassin versant dans R",
     "section": "1.6 Extraction du réseau hydrographique",
     "text": "1.6 Extraction du réseau hydrographique\nSeuillage de l’accumulation de flux pour identifier les cours d’eau."
+  },
+  {
+    "objectID": "team/PI/PI.html#awards",
+    "href": "team/PI/PI.html#awards",
+    "title": "Audrey Campeau",
+    "section": "Awards",
+    "text": "Awards\n\nL’Oréal – UNESCO prize for Women in Science, Sweden (2023)\nKing Carl XVI Gustaf’s 50th anniversary fund for science, technology and the environment (2020)\nAlfort Prize- Best PhD in Natural Geography from the Swedish Society for Anthropology and Geography (SSAG) (2020)"
+  },
+  {
+    "objectID": "team/members/members.html#alumni",
+    "href": "team/members/members.html#alumni",
+    "title": "Current Members",
+    "section": "Alumni",
+    "text": "Alumni\n\nUndergraduate researchers\n\nLéon Leblanc (2025-2026)"
   }
 ]

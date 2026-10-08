@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "Watershed Lab"
+  title: "Hydro Biogeo Lab"
   description: ""
-  favicon: images/Logo_Icon.png
+  favicon: images/HydrobioGeo_Logo_flavicon.png
   
   navbar:
-    logo: images/Logo_Icon.png
+    logo: images/HydrobioGeo_Logo_flavicon.png
     background: "#1a4d6e"  # Deep ocean
     foreground: "#f5f5f0"  # Off-white
     left:
@@ -41,7 +41,7 @@ website:
     border: true
     background: light
     left: |
-      © 2025 Watershed Lab at Université de Montréal. All rights reserved.
+      © 2026 Hydro Biogeo Lab at Université de Montréal. All rights reserved.
     center: |
       This website was built with [Quarto](https://quarto.org)
     right:

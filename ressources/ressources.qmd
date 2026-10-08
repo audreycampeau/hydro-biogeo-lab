@@ -1,14 +1,14 @@
 ---
-title: "Educational Resources"
+title: "Resources"
 listing:
   - id: tutorials
-    contents: ressources.yml
+    contents: ressources.yml # source file
     type: grid
     categories: true
     sort: "title"
     fields: [image, title, authors, description, categories]
   - id: dataviz
-    contents: dataviz.yml   # or whatever your source file is
+    contents: dataviz.yml   # source file
     type: grid
     categories: true
     sort: "date"

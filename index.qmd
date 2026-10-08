@@ -6,19 +6,19 @@ page-layout: article
 #title-block-banner-color: "#2c5f8d"
 ---
 
-![](images/Home_header.png){fig-align="center"}
+![](images/HydrobioGeo_Logo.png){fig-align="center" width="362"}
 
 ## Welcome
 
-The Watershed Lab is an interdisciplinary research group studying watershed processes, with focus on biogeochemistry and hydrology. We want to better understand watershed's inner-workings and how they may respond to environmental changes.
+The Hydro Biogeo Lab is an interdisciplinary research group studying the hydrological component of global biogeochemical cycles. We want to better understand how land-water processes drive biogeochemical fluxes, their inner-workings and how they may respond to environmental changes.
 
-What is a watershed? It is the geospatial unit defined by the natural flow of water on land.
-
-Our research is based mostly on field observations. We combine multiple tools including automated and continuous *in-situ* sensor measurements, isotopic tracers, ground or drone-based imagery including thermal infrared and LIDAR.
+Our research is based mostly on field observations and carried across multiple scales. We combine multiple tools including automated and continuous *in-situ* sensor measurements, isotopic tracers and geospatial data analysis.
 
 We are based at the [departement of geography of University of Montréal](https://geographie.umontreal.ca/accueil/), located at Campus-MIL
 
-![](/images/Watershed_Lab_logo.png){fig-align="center" width="403"}
+![](images/Home_header.png){fig-align="center"}
+
+![](images/Universite_de_Montreal_logo.svg.webp){fig-align="right" width="236"}
 
 ## How to use this website
 
@@ -26,11 +26,11 @@ This websites serves as a **diffusion platform** for the research we do collecti
 
 Here, you will find:
 
--   Tutorials and data viz material in the educational resources page.
+- Tutorials and data viz material in the educational resources page.
 
--   Individual portfolios from team members with more information on their research projects.
+- Individual portfolios from team members with more information on their research projects.
 
--   A list of publications, field sites, tools and equipement that form the core basis of our work.
+- A list of publications, field sites, tools and equipement that form the core basis of our work.
 
 We hold strong beliefs in the importance of making our science and knowledge accessible.
 
