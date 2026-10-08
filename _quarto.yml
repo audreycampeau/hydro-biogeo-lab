@@ -31,6 +31,10 @@ website:
       © 2026 Hydro Biogeo Lab at Université de Montréal. All rights reserved.
     center: |
       This website was built with [Quarto](https://quarto.org)
+    # Official UdeM logo, required by the university's visual identity guidelines.
+    # Shared by both languages (_quarto-fr.yml doesn't override it).
+    right: |
+      [![](/images/Universite_de_Montreal_logo.svg.webp){height="50px" fig-alt="Université de Montréal"}](https://www.umontreal.ca/)
         
 
 format:
