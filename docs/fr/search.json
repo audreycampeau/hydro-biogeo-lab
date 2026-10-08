@@ -105,11 +105,18 @@
     "text": "Use the Lua filter (cleaner, runs during build)\nOR\nUse the JavaScript (if Lua filter has issues)\nBoth work equally well - pick whichever is easier for you to set up!"
   },
   {
+    "objectID": "research/research.html",
+    "href": "research/research.html",
+    "title": "Recherche",
+    "section": "",
+    "text": "Voici une carte des sites d’étude où nous effectuons nos observations :"
+  },
+  {
     "objectID": "research/research.html#sites-détude",
     "href": "research/research.html#sites-détude",
     "title": "Recherche",
-    "section": "Sites d’étude",
-    "text": "Sites d’étude\nVoici une carte des sites d’étude où nous effectuons nos observations :"
+    "section": "",
+    "text": "Voici une carte des sites d’étude où nous effectuons nos observations :"
   },
   {
     "objectID": "research/research.html#projets-financés",

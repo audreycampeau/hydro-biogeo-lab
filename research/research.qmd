@@ -1,19 +1,14 @@
 ---
 title: "Research"
 date-modified: today
-listing: default
 output-dir: docs
 ---
-
-## 
-
-![](/images/HydrobioGeo_Logo.png){fig-align="center" width="409"}
 
 ## Field Sites
 
 Here's a map of the study sites where we draw observations from:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1XhQxU5bQlNBSGpYkAbjyCuK1aHFK2Rk&amp;ehbc=2E312F" width="640" height="480">
+<iframe src="https://www.google.com/maps/d/embed?mid=1XhQxU5bQlNBSGpYkAbjyCuK1aHFK2Rk&amp;ehbc=2E312F" width="640" height="480" style="display: block; margin: 0 auto; max-width: 100%;">
 
 </iframe>
 
@@ -92,3 +87,5 @@ Here's a map of the study sites where we draw observations from:
 - CH4: Pro-Oceanus, Solub-blue and mini sensors.
 
 - LGR: Ultraportable CO2 and CH4 analyzer
+
+![](/images/HydrobioGeo_Logo.png){fig-align="center" width="409"}

@@ -1,19 +1,14 @@
 ---
 title: "Recherche"
 date-modified: today
-listing: default
 output-dir: docs
 ---
-
-## 
-
-![](/images/HydrobioGeo_Logo.png){fig-align="center" width="409"}
 
 ## Sites d'étude
 
 Voici une carte des sites d'étude où nous effectuons nos observations :
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1XhQxU5bQlNBSGpYkAbjyCuK1aHFK2Rk&amp;ehbc=2E312F" width="640" height="480">
+<iframe src="https://www.google.com/maps/d/embed?mid=1XhQxU5bQlNBSGpYkAbjyCuK1aHFK2Rk&amp;ehbc=2E312F" width="640" height="480" style="display: block; margin: 0 auto; max-width: 100%;">
 
 </iframe>
 
@@ -92,3 +87,5 @@ Voici une carte des sites d'étude où nous effectuons nos observations :
 - CH4 : Pro-Oceanus, Solub-blue et mini-capteurs.
 
 - LGR : analyseur ultraportable de CO2 et de CH4
+
+![](/images/HydrobioGeo_Logo.png){fig-align="center" width="409"}
