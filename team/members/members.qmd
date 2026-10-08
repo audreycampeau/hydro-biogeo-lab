@@ -3,14 +3,13 @@ title: "Current Members"
 date-modified: today
 ---
 
+# 
+
 ## Doctoral researchers
 
-::::: grid
+::::::: grid
 ::: g-col-8
-#### Mathilde Bélair <a href="mailto:mathilde.belair@umontreal.ca" aria-label="Email"><i class="bi bi-envelope"></i></a> 
-
-
-
+#### Mathilde Bélair <a href="mailto:mathilde.belair@umontreal.ca" aria-label="Email"><i class="bi bi-envelope"></i></a>
 
 Co-supervised with [Jean-François Lapierre](https://www.lapierrelab.com)
 
@@ -25,16 +24,14 @@ My field site within the Watershed Lab is located in the north of Saguenay. Ther
 ![](/images/members/Mathilde.png){fig-align="right" width="200"}
 :::
 
-
-
 ::: g-col-8
-#### William Brais <a href="mailto:william.brais@umontreal.ca" aria-label="Email"><i class="bi bi-envelope"></i></a> 
+#### William Brais <a href="mailto:william.brais@umontreal.ca" aria-label="Email"><i class="bi bi-envelope"></i></a>
 
 Co-supervised with [Sylvain Jutras](https://www.ffgg.ulaval.ca/faculte/departement-des-sciences-du-bois-et-de-la-foret/personnel-enseignant/sylvain-jutras)
 
 How headwater stream CO₂ CH₄ emissions respond to hydro-climatic dynamics?
 
-My field site are distributed across a climate gradient including three monitored forested headwater catchments in Québec. I combine multiple sensors to continuously trace dissolved gas concentrations, stream network expansion and contraction, and turbulent gas exchange dynamics. 
+My field site are distributed across a climate gradient including three monitored forested headwater catchments in Québec. I combine multiple sensors to continuously trace dissolved gas concentrations, stream network expansion and contraction, and turbulent gas exchange dynamics.
 
 \[Find out more → <a href="https://github.com/USERNAME" aria-label="GitHub"><i class="bi bi-github"></i></a>
 :::
@@ -42,16 +39,13 @@ My field site are distributed across a climate gradient including three monitore
 ::: g-col-4
 ![](/images/members/William.png){fig-align="right" width="200"}
 :::
-
-
-:::::
+:::::::
 
 ## Master researchers
 
-::::::::: grid
+::::::::::: grid
 ::: g-col-8
 #### Léonie Thibault-Rousseau <a href="mailto:leonie.thibault.rousseau@umontreal.ca" aria-label="Email"><i class="bi bi-envelope"></i></a>
-
 
 How do storm events shape lateral carbon export in forested headwater streams?
 
@@ -68,7 +62,6 @@ I lead the [SBL headwater catchment](https://www.google.ca/maps/d/edit?mid=1CkgX
 
 ::: g-col-8
 #### Joël Gaxotte <a href="mailto:joel.gaxotte@umontreal.ca" aria-label="Email"><i class="bi bi-envelope"></i></a>
-
 
 Co-supervised with [Alexis Berg](https://sites.google.com/site/alexisbergspage/)
 
@@ -88,7 +81,6 @@ I produced the tutorial "[How to delineate a watershed on R](https://joelgaxotte
 ::: g-col-8
 #### Léon Leblanc <a href="mailto:leon.leblanc@umontreal.ca" aria-label="Email"><i class="bi bi-envelope"></i></a>
 
-
 Co-supervised with [Jean-François Lapierre](https://www.lapierrelab.com)
 
 What is the greenhouse gases footprint of agriculture drainage ditches in southern Québec and how can we better inform regional budgets?
@@ -102,16 +94,12 @@ What is the greenhouse gases footprint of agriculture drainage ditches in southe
 ![](/images/members/Leon.png){fig-align="right" width="200"}
 :::
 
-
 ::: g-col-8
 #### Nina Miller <a href="mailto:nina.emond.miller@umontreal.ca" aria-label="Email"><i class="bi bi-envelope"></i></a>
 
-
-
 Co-supervised with [Julia Mlynarek](https://juliamlynarek.wordpress.com)
 
-We recently identified a population of rapid cubtails, a rare specie of dragonfly, in the nicolet sub-ouest river. 
-My projet seeks to better understand the characteristics of its habitat in order to better inform conservation strategies.
+We recently identified a population of rapid cubtails, a rare specie of dragonfly, in the nicolet sub-ouest river. My projet seeks to better understand the characteristics of its habitat in order to better inform conservation strategies.
 
 \[Find out more →\]
 :::
@@ -121,10 +109,7 @@ My projet seeks to better understand the characteristics of its habitat in order
 
 ![](/images/members/Nina.png){fig-align="right" width="200"}
 :::
-:::::::::
-
-
-
+:::::::::::
 
 ## Bachelor researchers
 
@@ -140,7 +125,7 @@ My projet seeks to better understand the characteristics of its habitat in order
 
 ## 
 
-## Alumni
+# Alumni
 
 ### Undergraduate researchers
 
