@@ -6,15 +6,5 @@
   {
     "listing": "/research/research.html",
     "items": []
-  },
-  {
-    "listing": "/ressources/ressources.fr.html",
-    "items": []
-  },
-  {
-    "listing": "/research/research.fr.html",
-    "items": [
-      "/research/research.html"
-    ]
   }
 ]

@@ -20,7 +20,7 @@ Voici une carte des sites d'étude où nous effectuons nos observations :
 ## Projets financés
 
 ::: {}
-#### **Prendre le pouls des eaux d'amont du Québec**
+#### **Taking the pulse of Québec's headwaters**
 
 - Chercheuse principale : Audrey Campeau
 - Source de financement : Conseil de recherches en sciences naturelles et en génie du Canada (CRSNG)
@@ -29,7 +29,7 @@ Voici une carte des sites d'étude où nous effectuons nos observations :
 :::
 
 ::: {}
-#### CONTAC \| le réseau d'observatoires du carbone de la connectivité aquatique et terrestre
+#### CONTAC \| the carbon observatory network of the aquatic and terrestrial connectivity
 
 - Chercheuse principale : Audrey Campeau
 - Source de financement : FCI/Fondation canadienne pour l'innovation
@@ -46,14 +46,14 @@ Voici une carte des sites d'étude où nous effectuons nos observations :
 :::
 
 ::: {}
-#### **Prix Pour les femmes et la science**
+#### **Women in Science Award**
 
 - Chercheuse principale : Audrey Campeau
 - Source de financement : L'Oréal Sverige AB, Suède
 :::
 
 ::: {}
-#### **À l'intérieur de la boîte noire : évaluer la stabilité du stockage des gaz à effet de serre dans les tourbières nordiques**
+#### **Inside the black box: assessing the stability of the greenhouse gases storage in northern peatland.**
 
 - Chercheuse principale : Audrey Campeau
 - Source de financement : Formas/Conseil suédois de la recherche pour le développement durable
