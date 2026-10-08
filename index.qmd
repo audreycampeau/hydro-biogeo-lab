@@ -18,8 +18,6 @@ We are based at the [departement of geography of University of Montréal](https:
 
 ![](images/Home_header.png){fig-align="center"}
 
-![](images/Universite_de_Montreal_logo.svg.webp){fig-align="right" width="236"}
-
 ## How to use this website
 
 This websites serves as a **diffusion platform** for the research we do collectively in the lab.
