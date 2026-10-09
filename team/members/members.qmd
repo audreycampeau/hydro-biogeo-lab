@@ -95,11 +95,11 @@ What is the greenhouse gases footprint of agriculture drainage ditches in southe
 :::
 
 ::: g-col-8
-#### Nina Miller <a href="mailto:nina.emond.miller@umontreal.ca" aria-label="Email"><i class="bi bi-envelope"></i></a>
+#### Nina Emond Miller <a href="mailto:nina.emond.miller@umontreal.ca" aria-label="Email"><i class="bi bi-envelope"></i></a>
 
 Co-supervised with [Julia Mlynarek](https://juliamlynarek.wordpress.com)
 
-We recently identified a population of rapid cubtails, a rare specie of dragonfly, in the nicolet sub-ouest river. My projet seeks to better understand the characteristics of its habitat in order to better inform conservation strategies.
+We are examining the populations of two rare dragonfly species, the Rapids Clubtail (*Phanogomphus quadricolor*) and the Skillet Clubtail (*Gomphurus ventricosus*), that were recently identified along a stretch of the Nicolet River in Québec. My project seeks to better understand the habitat characteristics (local and landscape) of both species to better inform conservation strategies.  
 
 \[Find out more →\]
 :::

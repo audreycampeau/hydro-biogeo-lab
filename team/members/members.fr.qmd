@@ -95,11 +95,11 @@ Quelle est l'empreinte en gaz à effet de serre des fossés de drainage agricole
 :::
 
 ::: g-col-8
-#### Nina Miller <a href="mailto:nina.emond.miller@umontreal.ca" aria-label="Courriel"><i class="bi bi-envelope"></i></a>
+#### Nina Emond Miller <a href="mailto:nina.emond.miller@umontreal.ca" aria-label="Courriel"><i class="bi bi-envelope"></i></a>
 
 En codirection avec [Julia Mlynarek](https://juliamlynarek.wordpress.com)
 
-Nous avons récemment découvert une population de gomphes des fosses, une espèce rare de libellule, dans la rivière Nicolet Sud-Ouest. Mon projet vise à mieux comprendre les caractéristiques de son habitat afin de mieux orienter les stratégies de conservation.
+Nous étudions les populations de deux espèces rares de libellules, le *Phanogomphus quadricolor* et le *Gomphurus ventricosus*, récemment identifiées le long d'un tronçon de la rivière Nicolet, au Québec. Mon projet vise à mieux comprendre les caractéristiques de l'habitat (à l'échelle locale et du paysage) de ces deux espèces afin d'orienter plus efficacement les stratégies de conservation.
 
 \[Pour en savoir plus →\]
 :::
