@@ -6,7 +6,7 @@ page-layout: article
 #title-block-banner-color: "#2c5f8d"
 ---
 
-![](images/HydrobioGeo_Logo.png){fig-align="center" width="362"}
+![](images/HydrobioGeo_Logo.png){fig-align="center"}
 
 ## Welcome
 
